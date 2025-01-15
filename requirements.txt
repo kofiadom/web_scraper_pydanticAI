@@ -1,0 +1,4 @@
+pydantic_ai 
+beautifulsoup4 
+pandas
+python-dotenv
